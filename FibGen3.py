@@ -26,11 +26,11 @@ c = 0
 # Printing welcome
 wait_and_clear()
 new_line()
-print("Welcome to the Fibannoci Number Generator v3.1!")
+print("Welcome to the Fibonacci Number Generator v3.1!")
 time.sleep(2)
 new_line()
 print("Created by: Eric Driggers")
-print("Last Update: 10/22/2018")
+print("Last Update: 10/23/2018")
 time.sleep(2)
 wait_and_clear()
 
